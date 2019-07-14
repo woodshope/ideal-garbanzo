@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://woodshope.github.io/</id>
     <title>蓁蓁桃花</title>
-    <updated>2019-07-14T08:01:27.588Z</updated>
+    <updated>2019-07-14T08:02:12.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://woodshope.github.io/"/>
     <link rel="self" href="https://woodshope.github.io//atom.xml"/>
-    <subtitle>技术没好世界</subtitle>
+    <subtitle>技术美好世界</subtitle>
     <logo>https://woodshope.github.io//images/avatar.png</logo>
     <icon>https://woodshope.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 蓁蓁桃花</rights>
